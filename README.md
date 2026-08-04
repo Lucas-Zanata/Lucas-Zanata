@@ -9,7 +9,7 @@ Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Infor
 - **Técnico em Análise e Desenvolvimento de Sistemas** — Senac RS (fev/2024 - dez/2025)
 - **Fullstack Júnior** — Codifica Edu, +PraTI (mar/2025 - dez/2025)
 - **Fundamentos de IA** — Senai São Paulo (jun/2026 - jul/2026)
-[Java COMPLETO: Do Zero ao Profissional + Projetos!](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) — Udemy (em andamento)
+- **Curso Udemy** - [Java COMPLETO: Do Zero ao Profissional + Projetos!](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) (em andamento).
 
 ## 🛠️ Tecnologias e Ferramentas
 

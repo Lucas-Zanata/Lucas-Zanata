@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Zanata 👋
 
-<!--
-**Lucas-Zanata/Lucas-Zanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Informação (UNISINOS) e desenvolvedor Fullstack Jr. em formação, com foco em **Java** e **MySQL**.
 
-Here are some ideas to get you started:
+## 🎓 Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Sistemas de Informação** — UNISINOS (em andamento)
+- **Técnico em Análise e Desenvolvimento de Sistemas** — Senac RS (fev/2024 - dez/2025)
+- **Fullstack Júnior** — Codifica Edu, +PraTI (mar/2025 - dez/2025)
+- **Fundamentos de IA** — Senai São Paulo (jun/2026 - jul/2026)
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Frontend**
+- React — desenvolvimento de interfaces modernas e responsivas
+- JavaScript — lógica e interatividade
+- HTML & CSS — estruturação e estilização
+
+**Backend**
+- Java — desenvolvimento server-side
+- Spring Boot / Spring MVC — construção de aplicações
+- Python — automação, scripts e introdução à IA
+
+**Bancos de Dados**
+- MySQL
+
+**Controle de Versão**
+- Git
+
+**Outras competências**
+- Análise de erros e depuração de código
+
+## 💻 Linguagens e Tecnologias
+
+![Linguagens e Tecnologias](https://skillicons.dev/icons?i=html,css,js,react,java,spring,python,mysql,git)
+
+## 📊 Estatísticas
+
+![Estatísticas do GitHub de Lucas Zanata](https://github-stats-extended.vercel.app/api?username=Lucas-Zanata&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Tecnologias mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Lucas-Zanata&layout=compact&theme=dark&hide_border=true)
+
+## 📫 Contato
+
+- 📧 lucasdbzanata@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucaszanata-7b3b13346)

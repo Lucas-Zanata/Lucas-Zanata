@@ -1,6 +1,7 @@
 # Olá, eu sou o Lucas Zanata 👋
 
-Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Informação (UNISINOS) e desenvolvedor Fullstack Jr. em formação, com foco em **Java** e **MySQL**.
+Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Informação (UNISINOS) e desenvolvedor Fullstack Jr. em formação, com foco em **Java** e **Spring Boot**.
+
 
 ## 🎓 Formação
 
@@ -8,6 +9,7 @@ Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Infor
 - **Técnico em Análise e Desenvolvimento de Sistemas** — Senac RS (fev/2024 - dez/2025)
 - **Fullstack Júnior** — Codifica Edu, +PraTI (mar/2025 - dez/2025)
 - **Fundamentos de IA** — Senai São Paulo (jun/2026 - jul/2026)
+[Java COMPLETO: Do Zero ao Profissional + Projetos!](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) — Udemy (em andamento)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -17,7 +19,7 @@ Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Infor
 - HTML & CSS — estruturação e estilização
 
 **Backend**
-- Java — desenvolvimento server-side
+- Java — Java 21, 17
 - Spring Boot / Spring MVC — construção de aplicações
 - Python — automação, scripts e introdução à IA
 
@@ -42,4 +44,4 @@ Sou natural do Rio Grande do Sul e tenho 18 anos. Estudante de Sistemas de Infor
 ## 📫 Contato
 
 - 📧 lucasdbzanata@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucaszanata-7b3b13346)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-zanata-7b3b13346/)
